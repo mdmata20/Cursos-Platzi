@@ -2,3 +2,4 @@
 prueba de nueva info
 
 agregando informacion
+modificando el archivo en cabecera
